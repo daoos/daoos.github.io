@@ -1,7 +1,7 @@
-title: Daoos.GitHub.io
-description: daoos.com
-google_analytics: 
-show_downloads: true
+title: DAOOS
+description: DAOOS的个人空间
+google_analytics:
+show_downloads: false
 theme: jekyll-theme-hacker
 
 gems:
